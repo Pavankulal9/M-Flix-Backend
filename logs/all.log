@@ -1,0 +1,183 @@
+2024-11-06 10:09:10.969 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:09:10.970 [debug]: App is listening on PORT:8000
+2024-11-06 10:17:37.712 [error]: Route not found!
+2024-11-06 10:17:37.796 [http]: GET /api/v1/genre/movie/list 404 110ms
+2024-11-06 10:18:39.132 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:18:39.133 [debug]: App is listening on PORT:8000
+2024-11-06 10:19:20.033 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:19:20.034 [debug]: App is listening on PORT:8000
+2024-11-06 10:19:28.524 [error]: Route not found!
+2024-11-06 10:19:28.541 [http]: GET /api/v1/genre/list 404 19ms
+2024-11-06 10:19:41.828 [error]: Request failed with status code 401
+2024-11-06 10:19:41.831 [http]: GET /api/v1/movie/genre/list 500 701ms
+2024-11-06 10:20:49.193 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:20:49.194 [debug]: App is listening on PORT:8000
+2024-11-06 10:20:54.292 [error]: Request failed with status code 401
+2024-11-06 10:20:54.320 [http]: GET /api/v1/movie/genre/list 500 767ms
+2024-11-06 10:22:07.951 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:22:07.952 [debug]: App is listening on PORT:8000
+2024-11-06 10:23:58.409 [error]: Request failed with status code 401
+2024-11-06 10:23:58.421 [http]: GET /api/v1/movie/genre/list 500 810ms
+2024-11-06 10:25:02.803 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:25:02.804 [debug]: App is listening on PORT:8000
+2024-11-06 10:25:12.548 [error]: Request failed with status code 401
+2024-11-06 10:25:12.562 [http]: GET /api/v1/movie/genre/list 500 733ms
+2024-11-06 10:25:28.040 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:25:28.042 [debug]: App is listening on PORT:8000
+2024-11-06 10:25:46.693 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:25:46.694 [debug]: App is listening on PORT:8000
+2024-11-06 10:25:56.499 [error]: Cannot access 'data' before initialization
+2024-11-06 10:25:56.515 [http]: GET /api/v1/movie/genre/list 500 18ms
+2024-11-06 10:26:24.362 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:26:24.363 [debug]: App is listening on PORT:8000
+2024-11-06 10:29:53.126 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:29:53.127 [debug]: App is listening on PORT:8000
+2024-11-06 10:30:05.697 [error]: Request failed with status code 401
+2024-11-06 10:30:05.711 [http]: GET /api/v1/movie/genre/list 500 705ms
+2024-11-06 10:30:41.206 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:30:41.207 [debug]: App is listening on PORT:8000
+2024-11-06 10:31:47.359 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:31:47.361 [debug]: App is listening on PORT:8000
+2024-11-06 10:31:49.249 [error]: Request failed with status code 401
+2024-11-06 10:31:49.265 [http]: GET /api/v1/movie/genre/list 500 844ms
+2024-11-06 10:32:53.388 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:32:53.389 [debug]: App is listening on PORT:8000
+2024-11-06 10:32:55.402 [error]: Request failed with status code 401
+2024-11-06 10:32:55.415 [http]: GET /api/v1/movie/genre/list 500 1379ms
+2024-11-06 10:33:51.311 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:33:51.312 [debug]: App is listening on PORT:8000
+2024-11-06 10:33:59.295 [error]: Request failed with status code 401
+2024-11-06 10:33:59.308 [http]: GET /api/v1/movie/genre/list 500 957ms
+2024-11-06 10:34:21.532 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:34:21.534 [debug]: App is listening on PORT:8000
+2024-11-06 10:37:11.408 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:37:11.409 [debug]: App is listening on PORT:8000
+2024-11-06 10:39:05.963 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:39:05.964 [debug]: App is listening on PORT:8000
+2024-11-06 10:39:08.327 [error]: Request failed with status code 401
+2024-11-06 10:39:08.338 [http]: GET /api/v1/movie/genre/list 500 1341ms
+2024-11-06 10:39:37.052 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:39:37.054 [debug]: App is listening on PORT:8000
+2024-11-06 10:39:37.316 [http]: GET /api/v1/movie/genre/list 200 91ms
+2024-11-06 10:40:50.070 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:40:50.072 [debug]: App is listening on PORT:8000
+2024-11-06 10:42:01.994 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:42:01.995 [debug]: App is listening on PORT:8000
+2024-11-06 10:42:03.272 [error]: Request failed with status code 401
+2024-11-06 10:42:03.288 [http]: GET /api/v1/movie/genre/list 500 1200ms
+2024-11-06 10:42:58.851 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:42:58.853 [debug]: App is listening on PORT:8000
+2024-11-06 10:43:01.175 [error]: Request failed with status code 401
+2024-11-06 10:43:01.186 [http]: GET /api/v1/movie/genre/list 500 559ms
+2024-11-06 10:43:23.932 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:43:23.947 [debug]: App is listening on PORT:8000
+2024-11-06 10:43:24.638 [error]: Request failed with status code 401
+2024-11-06 10:43:24.673 [http]: GET /api/v1/movie/genre/list 500 696ms
+2024-11-06 10:43:43.522 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:43:43.523 [debug]: App is listening on PORT:8000
+2024-11-06 10:43:43.898 [http]: GET /api/v1/movie/genre/list 200 109ms
+2024-11-06 10:44:33.707 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:44:33.708 [debug]: App is listening on PORT:8000
+2024-11-06 10:44:36.804 [http]: GET /api/v1/movie/genre/list 200 80ms
+2024-11-06 10:45:04.310 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:45:04.311 [debug]: App is listening on PORT:8000
+2024-11-06 10:45:05.525 [http]: GET /api/v1/movie/genre/list 200 994ms
+2024-11-06 10:45:26.611 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:45:26.612 [debug]: App is listening on PORT:8000
+2024-11-06 10:45:29.293 [http]: GET /api/v1/movie/genre/list 200 688ms
+2024-11-06 10:47:14.179 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:47:14.180 [debug]: App is listening on PORT:8000
+2024-11-06 10:48:39.614 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:48:39.616 [debug]: App is listening on PORT:8000
+2024-11-06 10:48:40.446 [http]: GET /api/v1/movie/genre/list 200 781ms
+2024-11-06 10:49:41.898 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:49:41.899 [debug]: App is listening on PORT:8000
+2024-11-06 10:50:00.478 [http]: GET /api/v1/movie/discover/28 200 938ms
+2024-11-06 10:51:15.203 [http]: GET /api/v1/movie/popular 200 491ms
+2024-11-06 10:51:36.464 [http]: GET /api/v1/movie/1034541 200 662ms
+2024-11-06 10:52:26.304 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:52:26.305 [debug]: App is listening on PORT:8000
+2024-11-06 10:52:28.902 [http]: GET /api/v1/movie/1034541 200 668ms
+2024-11-06 10:53:43.476 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:53:43.477 [debug]: App is listening on PORT:8000
+2024-11-06 10:53:49.134 [http]: GET /api/v1/movie/1034541 200 483ms
+2024-11-06 10:54:57.624 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:54:57.626 [debug]: App is listening on PORT:8000
+2024-11-06 10:54:59.154 [http]: GET /api/v1/movie/1034541 200 344ms
+2024-11-06 10:57:13.118 [error]: Movie not found.
+2024-11-06 10:57:13.124 [http]: GET /api/v1/movie/search/kantara 404 7ms
+2024-11-06 10:58:41.751 [error]: Movie not found.
+2024-11-06 10:58:41.754 [http]: GET /api/v1/movie/search/king 404 4ms
+2024-11-06 10:59:33.202 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 10:59:33.204 [debug]: App is listening on PORT:8000
+2024-11-06 10:59:35.901 [http]: GET /api/v1/movie/search/king 200 982ms
+2024-11-06 10:59:58.233 [http]: GET /api/v1/movie/search/kantara 200 457ms
+2024-11-06 11:00:34.599 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 11:00:34.600 [debug]: App is listening on PORT:8000
+2024-11-06 11:00:45.968 [http]: GET /api/v1/movie/search/king&page=2 200 533ms
+2024-11-06 11:01:21.934 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 11:01:21.936 [debug]: App is listening on PORT:8000
+2024-11-06 11:01:22.509 [http]: GET /api/v1/movie/search/king&page=2 200 450ms
+2024-11-06 11:02:10.756 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 11:02:10.757 [debug]: App is listening on PORT:8000
+2024-11-06 11:02:11.266 [http]: GET /api/v1/movie/search/king&page=2 200 320ms
+2024-11-06 11:02:31.351 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 11:02:31.353 [debug]: App is listening on PORT:8000
+2024-11-06 11:02:32.469 [http]: GET /api/v1/movie/search/king&page=2 200 365ms
+2024-11-06 11:03:19.733 [http]: GET /api/v1/movie/search/king?page=2 200 682ms
+2024-11-06 11:03:33.226 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 11:03:33.227 [debug]: App is listening on PORT:8000
+2024-11-06 11:03:36.337 [http]: GET /api/v1/movie/search/king?page=2 200 388ms
+2024-11-06 11:04:00.145 [debug]:  App m-flix-api with api version v1 is starting
+    
+2024-11-06 11:04:00.147 [debug]: App is listening on PORT:8000
+2024-11-06 11:04:03.553 [http]: GET /api/v1/movie/search/king?page=2 200 367ms
+2024-11-06 11:06:38.178 [http]: GET /api/v1/movie/category/popular?page=2 200 724ms
+2024-11-06 11:07:17.472 [http]: GET /api/v1/movie/category/popular?page=1 200 462ms
+2024-11-06 11:07:53.551 [http]: GET /api/v1/movie/search/one%20peice?page=1 200 416ms
+2024-11-06 11:08:07.257 [http]: GET /api/v1/movie/search/one_%20peice?page=1 200 838ms
+2024-11-06 11:08:32.246 [http]: GET /api/v1/movie/search/gold?page=1 200 1184ms
+2024-11-06 11:08:41.872 [http]: GET /api/v1/movie/search/gold?page=2 200 521ms
+2024-11-06 11:08:54.398 [http]: GET /api/v1/movie/search/gold?page=1 200 233ms
+2024-11-06 11:09:19.145 [http]: GET /api/v1/movie/search/gold?page=10 200 707ms
+2024-11-06 11:09:29.699 [http]: GET /api/v1/movie/search/gold?page=20 200 450ms
+2024-11-06 11:09:45.150 [http]: GET /api/v1/movie/search/kantara?page=20 200 500ms
+2024-11-06 11:09:52.114 [http]: GET /api/v1/movie/search/kantara?page=2 200 680ms
