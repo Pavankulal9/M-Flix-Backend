@@ -18,8 +18,6 @@ class MovieService implements IMovieService{
 
         const {data} = await axios.get(GetURL.movieURL(id));
 
-        console.log(data);
-
         if(!data){
            throw new AppError(StatusCodes.INTERNAL_SERVER_ERROR, ErrorMessages.DatabaseErrors.QUERY_FAILED);
         }
@@ -64,8 +62,6 @@ class MovieService implements IMovieService{
     }
 
     async getGenreList(){
-       
-        console.log(await axios.get(GetURL.genreListURL()));
         
         const {data} = await axios.get(GetURL.genreListURL());
 
