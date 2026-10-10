@@ -12,16 +12,16 @@
   "author": "Pavan",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.7.7",
+    "axios": "^1.20.0",
     "compression": "^1.7.5",
     "cors": "^2.8.5",
     "date-fns": "^4.1.0",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "helmet": "^8.0.0",
-    "tsup":  "^8.3.5",
-    "tsx":  "^4.19.2",
     "http-status-codes": "^2.3.0",
+    "tsup": "^8.3.5",
+    "tsx": "^4.19.2",
     "winston": "^3.16.0"
   },
   "devDependencies": {
